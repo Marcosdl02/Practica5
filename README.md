@@ -7,6 +7,7 @@ Obtener información de un usuario por su ID
 Obtener una lista de todos los usuarios
 Actualizar información de un usuario existente
 Eliminar un usuario
+
 Cómics
 Crear un nuevo cómic
 Obtener información de un cómic por su ID
@@ -19,8 +20,7 @@ Ejemplos de consultas GraphQL
 
 A continuación se presentan algunos ejemplos de consultas GraphQL para utilizar con la API:
 
-graphql
-Copy code
+¡
 # Crear un nuevo usuario
 mutation {
   crearUsuario(nombre: "Nombre", correoElectronico: "correo@example.com") {
